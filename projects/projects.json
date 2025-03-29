@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Portfolio",
+    "desc": "It shows temples of building innovative solutions through coding and passionate about creating impacrful projects.",
+    "image": "image",
+    "category": "basicweb",
+    "links": {
+      "view": "https://curious-daifuku-306621.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Vertual Assistance",
+    "desc": "It shows temples of Virtual Assistant providing top-notch administrative support and Enhancing productivity and efficiency for businesses and entrepreneurs.",
+    "image": "image2",
+    "category": "basicweb",
+    "links": {
+      "view": "https://warm-kitsune-8016bf.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Coming soon",
+    "desc": "....",
+    "image": "image3",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
